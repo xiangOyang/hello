@@ -1,0 +1,14 @@
+微信小程序
+
+airtest做IOS自动化测试，需要mac os
+1、虚拟机安装mac os失败
+
+AI学习：
+第一步：《集体编程智慧》和《机器学习实战》
+第二步：李航的《统计学习方法》和周志华的《西瓜书》
+第三步：spark的Mllib文档
+PRML,MLAPP,ESL
+
+界面设计：TK and QT
+
+GO
